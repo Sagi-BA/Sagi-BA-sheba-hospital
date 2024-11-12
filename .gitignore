@@ -1,0 +1,12 @@
+*.code-workspace
+.env
+temp_audio
+uploads
+sample_songs
+# Ignore all __pycache__ directories
+**/__pycache__/
+AI.txt
+test
+utils/file_upload_utility.py
+.streamlit/config.toml_XXX
+main copy.py

@@ -1,0 +1,3 @@
+streamlit #For the web application interface
+Pillow #For image processing/handling
+fpdf #For PDF creation
