@@ -3,3 +3,7 @@ hideTopBar = true
 
 [theme]
 base = "white" 
+
+[client]
+showErrorDetails = false
+toolbarMode = "minimal"
